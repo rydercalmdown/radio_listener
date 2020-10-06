@@ -1,0 +1,59 @@
+{
+    "metadata": {
+        "timestamp_utc": "2020-05-24 00:26:07",
+        "music": [{
+            "play_offset_ms": 225640,
+            "artists": [{
+                "name": "Beyonc\u00e9"
+            }],
+            "lyrics": {
+                "copyrights": ["Sony/ATV Music Publishing LLC", "Warner/Chappell Music", "Inc."]
+            },
+            "acrid": "adc3642e397fe01e3800abbaca9df129",
+            "genres": [{
+                "name": "Pop"
+            }, {
+                "name": "R&B/Soul/Funk"
+            }, {
+                "name": "Contemporary R&B"
+            }],
+            "album": {
+                "name": "I AM...SASHA FIERCE"
+            },
+            "label": "Music World Music/Columbia",
+            "external_ids": {},
+            "result_from": 3,
+            "contributors": {
+                "composers": ["Beyonc\u00e9 Knowles", "Ryan Tedder", "Evan Kidd Bogart"],
+                "lyricists": ["Beyonce Knowles", "Evan Kidd Bogart", "Ryan B. Tedder"]
+            },
+            "title": "Halo",
+            "duration_ms": 261000,
+            "score": 100,
+            "external_metadata": {
+                "spotify": {
+                    "track": {
+                        "name": "Halo",
+                        "id": "2CvOqDpQIMw69cCzWqr5yr"
+                    },
+                    "artists": [{
+                        "name": "Beyonc\u00e9",
+                        "id": "6vWDO969PvNqNYHIOW5v0m"
+                    }],
+                    "album": {
+                        "name": "I AM...SASHA FIERCE - Platinum Edition",
+                        "id": "3ROfBX6lJLnCmaw1NrP5K9"
+                    }
+                }
+            },
+            "release_date": "2008-11-14"
+        }]
+    },
+    "cost_time": 0.046999931335449,
+    "status": {
+        "msg": "Success",
+        "version": "1.0",
+        "code": 0
+    },
+    "result_type": 0
+}
