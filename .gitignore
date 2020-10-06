@@ -1,3 +1,5 @@
 **/env
 **/.env
 **/environment.sh
+*.pyc
+**/__pycache__
